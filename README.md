@@ -13,7 +13,7 @@ I love hackathons: short deadlines, a real problem and a team that ships somethi
 | Event | Result | Project |
 | --- | --- | --- |
 | **CODEFEST AD ASTRA 2026** (Colombian Air Force, Universidad de los Andes, Aval Digital Labs) | **1st place** | [AeroCode](https://github.com/JuanMCanchala/codefest-adastra): multi-agent analysis with traceable evidence |
-| **Funnelchat Hackathon** (Universidad de San Buenaventura) | **2nd place** | |
+| **Funnelchat Hackathon 2026** (Universidad de San Buenaventura) | **2nd place** | [End2End](https://github.com/nx01-600/End2End): AI agents that handle WhatsApp and Telegram customers from first message to booked meeting |
 | **Platanus Hack 26 Bogotá** (AI Security track) | Participant | [Aegis](https://github.com/JuanMCanchala/aegis): conversational DLP for safe AI use at work |
 
 ---
@@ -26,7 +26,7 @@ I love hackathons: short deadlines, a real problem and a team that ships somethi
 | [**aerocode-demo**](https://github.com/nx01-600/aerocode-demo) | Post-hackathon consolidation of AeroCode, running on any OpenAI-compatible LLM with a lighter retrieval setup. | Python, FastAPI, React |
 | [**Aegis**](https://github.com/JuanMCanchala/aegis) | Conversational DLP that stops sensitive data before it reaches an AI tool, and teaches the user why in the moment. Platanus Hack 26. | Python, local proxy, ML detection |
 | [**ad-astra-retrieval**](https://github.com/JuanMCanchala/ad-astra-retrieval) | Multilingual dense semantic search over an aerospace corpus, evaluated with NDCG@10 and F1@3. | Python, FAISS, BGE-M3 |
-| [**End2End**](https://github.com/JuanMCanchala/End2End) | Team of AI agents that serves customers on WhatsApp and Telegram end to end: qualifies leads, sends PDF quotes, books meetings and follows up, with human takeover. | TypeScript, Supabase, Twilio |
+| [**End2End**](https://github.com/nx01-600/End2End) | Team of AI agents that serves customers on WhatsApp and Telegram end to end: qualifies leads, sends PDF quotes, books meetings and follows up, with human takeover. **2nd place, Funnelchat Hackathon.** | TypeScript, Supabase, Twilio |
 | [**claudeTalk**](https://github.com/nx01-600/claudeTalk) | Claude Code plugin for Windows: Claude reads its answers aloud and you dictate with local Whisper on GPU, through a live overlay. | Python, edge-tts, Whisper |
 | [**claudeseek-code**](https://github.com/nx01-600/claudeseek-code) | Runs the full Claude Code CLI on DeepSeek models through a local gateway, escalating to Claude only for Anthropic-only tools. | JavaScript, Node |
 | [**turing-machine**](https://github.com/JuanMCanchala/turing-machine) | In-browser Turing machine simulator: define it in YAML, see the state diagram, run it step by step. | JavaScript |
