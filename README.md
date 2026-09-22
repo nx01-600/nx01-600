@@ -1,6 +1,6 @@
 ### Hi, I'm Nicolás Carreño
 
-Systems Engineering student at Pontificia Universidad Javeriana Cali and full-stack developer at DNA Codex, based in Cali, Colombia.
+Systems Engineering student at Pontificia Universidad Javeriana Cali and full-stack developer, based in Cali, Colombia.
 
 I build AI-powered software end to end: multi-agent systems, retrieval pipelines with traceable evidence, conversational products over WhatsApp and Telegram, and the developer tooling I use every day to work faster with LLMs.
 
