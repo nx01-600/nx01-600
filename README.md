@@ -1,8 +1,16 @@
 ### Hi, I'm Nicolás Carreño
 
-Systems Engineering student at Pontificia Universidad Javeriana Cali and full-stack developer, based in Cali, Colombia.
+Full-stack developer and Systems Engineering student at Pontificia Universidad Javeriana Cali, based in Cali, Colombia.
 
-I build AI-powered software end to end: multi-agent systems, retrieval pipelines with traceable evidence, conversational products over WhatsApp and Telegram, and the developer tooling I use every day to work faster with LLMs.
+I work across the whole stack: backends in Rails, FastAPI, Node and PHP, frontends in React, Next.js and Astro, relational and NoSQL databases, Docker, automations and integrations with third-party APIs. I pick the tool the project needs instead of forcing one.
+
+My strongest area is AI:
+
+- **Agentic development:** multi-agent systems, orchestrators with tool calling, LangGraph, MCP servers, and agents that close real business flows (sales, quotes, scheduling, follow-up).
+- **Generative AI:** RAG with hybrid retrieval, embeddings and rerankers, answers with traceable citations, voice (speech-to-text and text-to-speech), and running models locally with Ollama and LiteLLM.
+- **Machine learning:** encoder and decoder transformer models, small language models (SLMs), semantic search evaluated with NDCG and F1, and data analysis in Jupyter.
+
+I'm Claude Code's #1 fan. I use it every day and build on top of it: plugins, skills, hooks, MCP servers, custom status lines and a gateway to run it on other models.
 
 I love hackathons: short deadlines, a real problem and a team that ships something working by the end.
 
@@ -36,13 +44,72 @@ I love hackathons: short deadlines, a real problem and a team that ships somethi
 
 ### Tech I work with
 
-**Languages:** Python, TypeScript, JavaScript, Ruby, C++, SQL
+**Languages**<br>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 
-**Backend:** Ruby on Rails, FastAPI, Node.js, PostgreSQL, MySQL, Supabase, Docker
+**Backend**<br>
+<img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-555555?style=flat-square" />
 
-**Frontend:** React, Next.js, Astro, Vite
+**Frontend**<br>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white" />
+<img alt="GSAP" src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
+<img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img alt="Elementor" src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
 
-**AI:** LLM agents and tool calling, LangGraph, RAG (FAISS, BGE-M3, rerankers), Whisper, OpenAI / Anthropic / DeepSeek APIs
+**Data**<br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+<img alt="FAISS" src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+**AI and ML**<br>
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" />
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img alt="Transformers" src="https://img.shields.io/badge/Transformers-FF9D00?style=flat-square&logo=huggingface&logoColor=black" />
+<img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img alt="LiteLLM" src="https://img.shields.io/badge/LiteLLM-555555?style=flat-square" />
+<img alt="Whisper" src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
+**DevOps and tools**<br>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img alt="Linux / WSL" src="https://img.shields.io/badge/Linux%20/%20WSL-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 
 ---
 
