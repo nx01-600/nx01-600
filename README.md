@@ -4,9 +4,17 @@ Systems Engineering student at Pontificia Universidad Javeriana Cali and full-st
 
 I build AI-powered software end to end: multi-agent systems, retrieval pipelines with traceable evidence, conversational products over WhatsApp and Telegram, and the developer tooling I use every day to work faster with LLMs.
 
-- **Winner:** 1st place at CODEFEST AD ASTRA 2026 (Colombian Air Force, Universidad de los Andes, Aval Digital Labs) with team AeroCode.
-- **Hackathons:** Platanus Hack 26 Bogotá, AI Security track.
-- **Currently:** building web platforms with Ruby on Rails, and AI agents with Python and TypeScript.
+I love hackathons: short deadlines, a real problem and a team that ships something working by the end.
+
+---
+
+### Hackathons
+
+| Event | Result | Project |
+| --- | --- | --- |
+| **CODEFEST AD ASTRA 2026** (Colombian Air Force, Universidad de los Andes, Aval Digital Labs) | **1st place** | [AeroCode](https://github.com/JuanMCanchala/codefest-adastra): multi-agent analysis with traceable evidence |
+| **Funnelchat Hackathon** (Universidad de San Buenaventura) | **2nd place** | |
+| **Platanus Hack 26 Bogotá** (AI Security track) | Participant | [Aegis](https://github.com/JuanMCanchala/aegis): conversational DLP for safe AI use at work |
 
 ---
 
