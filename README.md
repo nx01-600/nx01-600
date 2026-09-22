@@ -10,7 +10,13 @@ My strongest area is AI:
 - **Generative AI:** RAG with hybrid retrieval, embeddings and rerankers, answers with traceable citations, voice (speech-to-text and text-to-speech), and running models locally with Ollama and LiteLLM.
 - **Machine learning:** encoder and decoder transformer models, small language models (SLMs), semantic search evaluated with NDCG and F1, and data analysis in Jupyter.
 
-I'm Claude Code's #1 fan. I use it every day and build on top of it: plugins, skills, hooks, MCP servers, custom status lines and a gateway to run it on other models.
+I'm Claude Code's #1 fan. I use it every day, and I like it so much that I build my own tools for it:
+
+- [**claudeTalk**](https://github.com/nx01-600/claudeTalk): a plugin that gives Claude Code a voice. It reads its answers aloud and lets me dictate with local Whisper on GPU, through a live liquid-glass overlay.
+- [**claudeseek-code**](https://github.com/nx01-600/claudeseek-code): a local gateway that runs the full Claude Code CLI on DeepSeek models, escalating to Claude only for Anthropic-only tools like WebSearch.
+- **Custom status line:** a Node status line that reads session usage straight from the transcripts, plus a git addon that points it at the right repo when the session runs outside the project folder.
+- **Custom skills:** audio transcription with local Whisper or the Groq API, a web design skill with anti-slop heuristics, and delegation of heavy writing tasks to cheaper models.
+- **Local agents:** an agent running fully offline on Ollama through a LiteLLM bridge, executing tools end to end.
 
 I love hackathons: short deadlines, a real problem and a team that ships something working by the end.
 
