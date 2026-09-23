@@ -12,7 +12,7 @@ My strongest area is AI:
 
 I'm Claude Code's #1 fan. I use it every day, and I like it so much that I build my own tools for it:
 
-- [**claudeTalk**](https://github.com/nx01-600/claudeTalk): a plugin that gives Claude Code a voice. It reads its answers aloud and lets me dictate with local Whisper on GPU, through a live liquid-glass overlay.
+- [**claudeTalk**](https://github.com/nx01-600/claudeTalk): a plugin that turns Claude Code into a voice assistant I hold real conversations with. I say "Oye Claude" from any app, speak, and the message lands in my last Claude session without touching the keyboard; Claude answers out loud while the details stay on screen. Local Whisper on GPU for dictation, a distinct voice per parallel session so I know who is talking, and a liquid-glass overlay that confirms every send.
 - [**claudeseek-code**](https://github.com/nx01-600/claudeseek-code): a local gateway that runs the full Claude Code CLI on DeepSeek models, escalating to Claude only for Anthropic-only tools like WebSearch.
 - **Custom status line:** a Node status line that reads session usage straight from the transcripts, plus a git addon that points it at the right repo when the session runs outside the project folder.
 - **Custom skills:** audio transcription with local Whisper or the Groq API, a web design skill with anti-slop heuristics, and delegation of heavy writing tasks to cheaper models.
@@ -41,7 +41,7 @@ I love hackathons: short deadlines, a real problem and a team that ships somethi
 | [**Aegis**](https://github.com/JuanMCanchala/aegis) | Conversational DLP that stops sensitive data before it reaches an AI tool, and teaches the user why in the moment. Platanus Hack 26. | Python, local proxy, ML detection |
 | [**ad-astra-retrieval**](https://github.com/JuanMCanchala/ad-astra-retrieval) | Multilingual dense semantic search over an aerospace corpus, evaluated with NDCG@10 and F1@3. | Python, FAISS, BGE-M3 |
 | [**End2End**](https://github.com/nx01-600/End2End) | Team of AI agents that serves customers on WhatsApp and Telegram end to end: qualifies leads, sends PDF quotes, books meetings and follows up, with human takeover. **2nd place, Funnelchat Hackathon.** | TypeScript, Supabase, Twilio |
-| [**claudeTalk**](https://github.com/nx01-600/claudeTalk) | Claude Code plugin for Windows: Claude reads its answers aloud and you dictate with local Whisper on GPU, through a live overlay. | Python, edge-tts, Whisper |
+| [**claudeTalk**](https://github.com/nx01-600/claudeTalk) | Claude Code plugin for Windows that makes it a hands-free voice assistant: say "Oye Claude" from any app and talk, and Claude answers out loud, with its own voice per parallel session. Local Whisper dictation on GPU and a liquid-glass overlay. | Python, PowerShell, edge-tts, Whisper |
 | [**claudeseek-code**](https://github.com/nx01-600/claudeseek-code) | Runs the full Claude Code CLI on DeepSeek models through a local gateway, escalating to Claude only for Anthropic-only tools. | JavaScript, Node |
 | [**turing-machine**](https://github.com/JuanMCanchala/turing-machine) | In-browser Turing machine simulator: define it in YAML, see the state diagram, run it step by step. | JavaScript |
 | [**Juan Esteban López portfolio**](https://github.com/nx01-600/juan-esteban-lopez-portafolio) | Architecture portfolio website with smooth scroll and WebGL effects. | Astro, TypeScript, GSAP, OGL |
